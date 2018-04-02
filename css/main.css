@@ -1,0 +1,26 @@
+.create-card {
+    padding-bottom:1rem;
+}
+
+.input-card {
+    width:100%;
+    display: block;
+    background-color:transparent;
+    border: none;
+}
+
+.input-card:focus {
+    outline:none;
+
+}
+
+.cards-list {
+
+            box-sizing: border-box;
+    min-height: 30vh;
+    width: 100%;
+}
+
+.card {
+    margin-top:1rem;
+}
