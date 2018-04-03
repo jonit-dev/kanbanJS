@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7cc95ff-9f8c-467d-814d-601145082475" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change beforePath="$PROJECT_DIR$/js/cardDragDrop.js" afterPath="$PROJECT_DIR$/js/cardDragDrop.js" />
       <change beforePath="$PROJECT_DIR$/js/jsKanban.js" afterPath="$PROJECT_DIR$/js/jsKanban.js" />
     </list>
@@ -24,43 +25,43 @@
     <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.8003482">
+    <splitter split-orientation="horizontal" split-proportion="0.5716773">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="352">
-                  <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+                  <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="jsKanban.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="jsKanban.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/jsKanban.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="506">
-                  <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+                <state relative-caret-position="748">
+                  <caret line="60" column="11" lean-forward="false" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
                   <folding>
-                    <marker date="1522729994194" expanded="true" signature="350:1033" ph="..." />
-                    <marker date="1522729994194" expanded="true" signature="390:1010" ph="..." />
-                    <marker date="1522729994194" expanded="true" signature="430:563" ph="..." />
-                    <marker date="1522729994194" expanded="true" signature="768:905" ph="..." />
-                    <marker date="1522729994194" expanded="true" signature="1411:1745" ph="..." />
-                    <marker date="1522729994194" expanded="true" signature="1451:1722" ph="..." />
-                    <marker date="1522729994194" expanded="true" signature="1491:1508" ph="..." />
-                    <marker date="1522729994194" expanded="true" signature="1625:1675" ph="..." />
+                    <marker date="1522733080348" expanded="true" signature="350:1033" ph="..." />
+                    <marker date="1522733080348" expanded="true" signature="390:1010" ph="..." />
+                    <marker date="1522733080348" expanded="true" signature="430:563" ph="..." />
+                    <marker date="1522733080348" expanded="true" signature="768:905" ph="..." />
+                    <marker date="1522733080348" expanded="true" signature="1403:1737" ph="..." />
+                    <marker date="1522733080348" expanded="true" signature="1443:1714" ph="..." />
+                    <marker date="1522733080348" expanded="true" signature="1483:1500" ph="..." />
+                    <marker date="1522733080348" expanded="true" signature="1617:1667" ph="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="cardDragDrop.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="cardDragDrop.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/cardDragDrop.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="198">
-                  <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+                <state relative-caret-position="44">
+                  <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -83,8 +84,8 @@
           <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="638">
-                  <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+                <state relative-caret-position="176">
+                  <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
                   <folding />
                 </state>
               </provider>
@@ -100,12 +101,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/js/cardOOP.js" />
         <option value="$PROJECT_DIR$/libs/jqueryTouchPunch.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/jsKanban.js" />
         <option value="$PROJECT_DIR$/js/cardDragDrop.js" />
+        <option value="$PROJECT_DIR$/js/jsKanban.js" />
       </list>
     </option>
   </component>
@@ -145,8 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,6 +167,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,12 +212,13 @@
       <workItem from="1522697845418" duration="454000" />
       <workItem from="1522698311028" duration="5220000" />
       <workItem from="1522704530026" duration="148000" />
-      <workItem from="1522729368074" duration="677000" />
+      <workItem from="1522729368074" duration="720000" />
+      <workItem from="1522732517336" duration="561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6499000" />
+    <option name="totallyTimeSpent" value="7103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -262,17 +264,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jsKanban.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <marker date="1522733080348" expanded="true" signature="350:1033" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="390:1010" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="430:563" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="768:905" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1403:1737" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1443:1714" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1483:1500" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1617:1667" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/cardOOP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/cardDragDrop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsKanban.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
           <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
           <folding>
-            <marker date="1522729994194" expanded="true" signature="350:1033" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="390:1010" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="430:563" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="768:905" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1411:1745" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1451:1722" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1491:1508" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1625:1675" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="350:1033" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="390:1010" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="430:563" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="768:905" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1403:1737" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1443:1714" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1483:1500" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1617:1667" ph="..." />
           </folding>
         </state>
       </provider>
@@ -314,14 +365,14 @@
         <state relative-caret-position="902">
           <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
           <folding>
-            <marker date="1522729994194" expanded="true" signature="350:1033" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="390:1010" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="430:563" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="768:905" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1411:1745" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1451:1722" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1491:1508" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1625:1675" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="350:1033" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="390:1010" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="430:563" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="768:905" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1403:1737" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1443:1714" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1483:1500" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1617:1667" ph="..." />
           </folding>
         </state>
       </provider>
@@ -363,14 +414,14 @@
         <state relative-caret-position="88">
           <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding>
-            <marker date="1522729994194" expanded="true" signature="350:1033" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="390:1010" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="430:563" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="768:905" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1411:1745" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1451:1722" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1491:1508" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1625:1675" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="350:1033" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="390:1010" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="430:563" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="768:905" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1403:1737" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1443:1714" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1483:1500" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1617:1667" ph="..." />
           </folding>
         </state>
       </provider>
@@ -392,8 +443,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="176">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -401,33 +452,33 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/cardDragDrop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jsKanban.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="748">
+          <caret line="60" column="11" lean-forward="false" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
           <folding>
-            <marker date="1522729994194" expanded="true" signature="350:1033" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="390:1010" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="430:563" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="768:905" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1411:1745" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1451:1722" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1491:1508" ph="..." />
-            <marker date="1522729994194" expanded="true" signature="1625:1675" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="350:1033" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="390:1010" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="430:563" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="768:905" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1403:1737" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1443:1714" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1483:1500" ph="..." />
+            <marker date="1522733080348" expanded="true" signature="1617:1667" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/cardDragDrop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>

@@ -3,11 +3,11 @@ $(function () {
 
 
 
-
         $("#column-to-do, #column-on-going, #column-finished").sortable({
             connectWith: ".cards-list",
+
             cancel: '.card-draft',
-            // item: '.card:not(.card-draft)',
+            item: '.card:not(.card-draft)',
 
             stop: function (event, ui) {
                 console.log('card drop event');

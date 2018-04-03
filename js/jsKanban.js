@@ -42,7 +42,7 @@ $(function () {
         let cardContent = newCard.content;
 
         targetWhere.append(`
-              <div class="card" class="card-definitive" data-card-id="${newCard.id}">
+              <div class="card card-definitive" data-card-id="${newCard.id}">
                 <div class="card-body">
                 <h5 class="card-title">${cardTitle}</h5>
                 <h6 class="card-subtitle mb-2 text-muted">${cardPriority}</h6>
@@ -53,6 +53,12 @@ $(function () {
                 </div>
                 </div>
         `);
+
+
+
+        $(".card-definitive").draggable({
+            handle: ".card-definitive"
+        });
     }
 
     /* ------------------------------------------------------------|
