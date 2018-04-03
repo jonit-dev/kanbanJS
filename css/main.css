@@ -27,7 +27,7 @@
 
 #save-card {
     display:block;
-    border: solid 1px hotpink;
+    border-top: solid 1px hotpink;
             box-sizing: border-box;
     padding-top:1rem;
     padding-bottom:1rem;

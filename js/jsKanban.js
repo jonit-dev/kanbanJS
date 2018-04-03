@@ -56,9 +56,11 @@ $(function () {
 
 
 
-        $(".card-definitive").draggable({
-            handle: ".card-definitive"
-        });
+
+        // $(".card-definitive").draggable({
+        //     handle: ".card-definitive"
+        // });
+        //
     }
 
     /* ------------------------------------------------------------|

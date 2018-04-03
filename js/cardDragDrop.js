@@ -1,33 +1,30 @@
 $(function () {
 
 
+    $("#column-to-do, #column-on-going, #column-finished").sortable({
+        connectWith: ".cards-list",
 
 
-        $("#column-to-do, #column-on-going, #column-finished").sortable({
-            connectWith: ".cards-list",
+        stop: function (event, ui) {
+            console.log('card drop event');
 
-            cancel: '.card-draft',
-            item: '.card:not(.card-draft)',
+            let draggedElement = ui.item;
+            console.log(draggedElement);
 
-            stop: function (event, ui) {
-                console.log('card drop event');
-
-                let draggedElement = ui.item;
-                console.log(draggedElement);
-
-                let cardId = draggedElement.data('card-id');
-                let newColumn = ui.item.parents().first().attr('id');
+            let cardId = draggedElement.data('card-id');
+            let newColumn = ui.item.parents().first().attr('id');
 
 
-                console.log(`A card id ${cardId} was dropped inside ${newColumn}`);
+            console.log(`A card id ${cardId} was dropped inside ${newColumn}`);
 
-                Card.updateColumn(cardId, newColumn);
+            Card.updateColumn(cardId, newColumn);
 
-            }
+        }
 
 
-        }).disableSelection();
+    }).disableSelection();
 
+    $(".card-draft").draggable("disable");
 
 
 });
