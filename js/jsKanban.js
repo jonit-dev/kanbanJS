@@ -59,7 +59,7 @@ $(function () {
         `);
 
 
-
+        $(".create-card").show();
 
 
     }
@@ -72,6 +72,8 @@ $(function () {
     //Saving a New card
 
     $('.create-card').on('click', function () {
+
+        $(".create-card").hide();
 
         //Default values
         let cardTitle = "New card title";
