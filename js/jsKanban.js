@@ -11,7 +11,7 @@ $(function () {
     function createCardDraft(targetWhere, cardTitle, cardPriority, cardContent) {
 
         targetWhere.append(`
-              <div class="card" id="card-draft">
+              <div class="card card-draft">
                 <div class="card-body">
                 <h5 class="card-title">
                 
@@ -27,6 +27,8 @@ $(function () {
                 </div>
                 </div>
         `);
+
+
 
     }
 
