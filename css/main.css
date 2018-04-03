@@ -6,7 +6,7 @@
     width: 100%;
     display: block;
     background-color: transparent;
-    border: solid 1px silver;
+    /*border: solid 1px silver;*/
 }
 
 .input-card:focus {
@@ -27,8 +27,8 @@
 
 #save-card {
     display:block;
-    border-top: solid 1px hotpink;
-            box-sizing: border-box;
+    /*border-top: solid 1px hotpink;*/
+            /*box-sizing: border-box;*/
     padding-top:1rem;
     padding-bottom:1rem;
 }
