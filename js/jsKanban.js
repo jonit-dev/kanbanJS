@@ -8,18 +8,18 @@ $(function () {
     *-------------------------------------------------------------*/
 
 
-    function createCardDraft(targetWhere, cardTitle, cardPriority, cardContent) {
+    function createCardDraft(targetWhere) {
 
         targetWhere.append(`
               <div class="card card-draft">
                 <div class="card-body">
                 <h5 class="card-title">
                 
-                <input type="text" value="${cardTitle}" name="card-title" class="input-card" id="card-title">
+                <input type="text" value="" name="card-title" class="input-card" id="card-title" placeholder="Set Card Title">
 </h5>
-                <h6 class="card-subtitle mb-2 text-muted"> <input type="text" value="${cardPriority}" name="card-priority" class="input-card" id="card-priority"></h6>
+                <h6 class="card-subtitle mb-2 text-muted"> <input type="text" value="" name="card-priority" class="input-card" id="card-priority" placeholder="Priority"></h6>
                 <p class="card-text">
-                <input type="text" value="${cardContent}" name="card-content" class="input-card" id="card-content">
+                <input type="text" value="" name="card-content" class="input-card" id="card-content" placeholder="Content">
                 </p>
                 
                 <a href="#" id="save-card">Save Card</a>
@@ -27,6 +27,8 @@ $(function () {
                 </div>
                 </div>
         `);
+
+        $("input[name='card-title']").focus();
 
 
 
@@ -81,7 +83,7 @@ $(function () {
 
 
 
-        createCardDraft($(this).prev().children().first(), cardTitle, cardPriority, cardContent);
+        createCardDraft($(this).prev().children().first());
 
         //avoid multistacking event binding
         $("#save-card").unbind('click');
